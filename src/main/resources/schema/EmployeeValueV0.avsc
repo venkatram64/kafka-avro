@@ -1,0 +1,21 @@
+{
+    "type": "record",
+    "name": "EmployeeValue",
+    "namespace": "com.venkat.scala.entity",
+    "doc": "EmployeeValue object",
+    "fields": [
+        {
+            "name": "firstName",
+            "type": "string",
+            "doc": "firstName"
+        },
+        {
+            "name": "email",
+            "type": "string",
+            "doc": "email"
+        }
+    ],
+    "globalId": "1234",
+    "root": "true",
+    "version": "0"
+}

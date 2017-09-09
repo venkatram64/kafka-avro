@@ -1,0 +1,16 @@
+{
+    "type": "record",
+    "name": "EmployeeKey",
+    "namespace": "com.venkat.scala.entity",
+    "doc": "The key which uniquely identifies EmployeeKey",
+    "fields": [
+        {
+            "name": "empId",
+            "type": "string",
+            "doc": "Source which uniquely identifies employee Id"
+        }
+    ],
+    "globalId": "123",
+    "root": "true",
+    "version": "0"
+}

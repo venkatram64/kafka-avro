@@ -1,0 +1,4 @@
+KafkaLocalSettings:
+  topicName: my.test.topic
+  bootstrapServiceConfig: localhost:9090
+  zookeeperUrl: localhost:2181
